@@ -2,9 +2,9 @@
 
 # Overview
 
-This bit of software is a simple hellow world application written in Rust.
+This bit of software is a simple hello world application written in Rust.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Wcqbm1MTVyk)
 
 # Development Environment
 
